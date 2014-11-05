@@ -1,0 +1,48 @@
+html {
+  font-family: 'Lucida Grande', sans-serif;
+
+}
+.grid {
+  margin: 0 auto;
+  width: 970px;
+}
+
+.title-text {
+  color: #666666;
+  font-size: 50px;
+}
+
+.content-header {
+  color: #F07C17;
+  font-size: 25px;
+	padding-bottom: 20px;
+	font-weight: bold;
+}
+
+.content-text {
+  color: #666666;
+  font-size: 16px;
+  line-height: 2;
+}
+
+.feature-box {
+	border: solid 1px #CCCCCC;
+	margin-top: 30px;
+	padding-left: 20px;
+	padding-top:20px;
+	padding-bottom: 20px;
+	font-size: 16px;
+}
+
+
+
+
+img {
+  padding-top: 20px;
+  width: 100%;
+  max-width: 360px;
+}
+@media only screen and (min-device-width : 768px) {
+
+}
+
